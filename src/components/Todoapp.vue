@@ -93,4 +93,10 @@ li {
 .clear-button:hover {
   background: #e60000;
 }
+
+.test {
+  color: red;
+  font-size: 2rem;
+  font-weight: bold;
+}
 </style>
