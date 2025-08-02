@@ -35,6 +35,8 @@ function addTodo() {
   newTodo.value = ''
 }
 
+//testing 
+
 function toggleDone(index) {
   todos.value[index].done = !todos.value[index].done
 }
